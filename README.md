@@ -1,5 +1,11 @@
 # https://manika-weather-app.netlify.app/  
 
+React, HTML, CSS, and APIs Github
+– Developed a dynamic Weather App with detailed current weather conditions and a 7-day forecast.
+– Utilizing the OpenWeather API for real-time weather data and the RapidAPI Cities Autocomplete API for a user-friendly
+city search feature.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
